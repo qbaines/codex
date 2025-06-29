@@ -1,0 +1,7 @@
+name: "music-producer"
+description: |
+  Create a simple command line tool that helps produce short melodies.
+  - Use Python along with a lightweight MIDI library (e.g. midiutil) to generate a MIDI file.
+  - Provide an interactive prompt for users to enter a sequence of notes and durations.
+  - Save the resulting composition as `output.mid` in the run directory.
+  - Include a README.md with instructions on how to run the tool and how to install dependencies.
