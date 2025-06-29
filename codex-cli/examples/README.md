@@ -42,3 +42,4 @@ Besides **camerascii**, you can experiment with:
 - **build‑codex‑demo**: recreate the original 2021 Codex YouTube demo.
 - **impossible‑pong**: where Codex creates more difficult levels.
 - **prompt‑analyzer**: make a data science app for clustering [prompts](https://github.com/f/awesome-chatgpt-prompts).
+- **music‑producer**: build a simple command‑line tool that generates MIDI melodies.
